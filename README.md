@@ -5,6 +5,8 @@
 * [On Coding and Programming](#on-coding-and-programming)
 * [Platform Specific](#on-coding-and-programming)
 
+-----
+
 ### On Motivation and Inspiration
 * [9 Steps to Launch Your Freelance Career From Ground Zero](https://www.youtube.com/watch?v=p8FwAUw7hiE) [00:33:09] by The John Morris Show
 * [Watch This Whenever You Need Some Self Motivation and Self Confidence](https://www.youtube.com/watch?v=EB_vYbeVOjA) [00:29:46] by The John Morris Show
