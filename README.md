@@ -29,10 +29,16 @@
 * [Legal Do's and Don'ts for Freelancers](https://www.youtube.com/watch?v=92p6u5d-eYs) [01:04:26] by Skillcrush Team
 
 ### On Coding and Programming
-* [List][Programming Talks](https://github.com/hellerve/programming-talks)
-* [List][Javascript Must Watch](https://github.com/bolshchikov/js-must-watch)
+* [List] [Programming Talks](https://github.com/hellerve/programming-talks)
+* [List] [Javascript Must Watch](https://github.com/bolshchikov/js-must-watch)
 * [Roadmap to a Successful Freelance Coding Career](https://www.youtube.com/watch?v=2P2kYBDeN8A) [00:28:45] by The John Morris Show
 * [Separation of Concerns, MVC, and How to Get Started as a Freelance Coder](https://www.youtube.com/watch?v=i-ZzGycb1p4) [00:37:17] by The John Morris Show
 * [HOW TO BECOME A DEVELOPER AND GO REMOTE (Q&A WITH DYLAN WOLFF)](https://www.youtube.com/watch?v=V8iBcfwmX3Y) [00:30:49] by Chris the Freelancer
 * [Brad Hussey On Becoming A Successful Freelance Developer ](https://www.youtube.com/watch?v=V8iBcfwmX3Y) [00:34:35] by John Sonmez
 * [Your Fastest Python Freelancer Roadmap](https://www.youtube.com/watch?v=jFZsyfNC27c) [01:28:03] by Clever Programmer
+
+### Platform Specific
+* [Upwork][how to freelance on upwork](https://www.youtube.com/watch?v=TLfn1mQ2Gt8) [00:23:32] by Begginer Tuts
+* [Upwork][How to Use Upwork as a Freelancer Webinar](https://www.youtube.com/watch?v=huRP7qXc2u0) [00:23:45] by Upwork
+* [Upwork][How Do I Get My First Client on Upwork (Elance and oDesk)?](https://www.youtube.com/watch?v=coykaiGnBbQ) [00:20:15] by The John Morris Show
+* 
