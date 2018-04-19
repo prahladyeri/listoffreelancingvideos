@@ -38,6 +38,6 @@
 * [Your Fastest Python Freelancer Roadmap](https://www.youtube.com/watch?v=jFZsyfNC27c) [01:28:03] by Clever Programmer
 
 ### Platform Specific
-* [Upwork][how to freelance on upwork](https://www.youtube.com/watch?v=TLfn1mQ2Gt8) [00:23:32] by Begginer Tuts
-* [Upwork][How to Use Upwork as a Freelancer Webinar](https://www.youtube.com/watch?v=huRP7qXc2u0) [00:23:45] by Upwork
-* [Upwork][How Do I Get My First Client on Upwork (Elance and oDesk)?](https://www.youtube.com/watch?v=coykaiGnBbQ) [00:20:15] by The John Morris Show
+* [Upwork] [how to freelance on upwork](https://www.youtube.com/watch?v=TLfn1mQ2Gt8) [00:23:32] by Begginer Tuts
+* [Upwork] [How to Use Upwork as a Freelancer Webinar](https://www.youtube.com/watch?v=huRP7qXc2u0) [00:23:45] by Upwork
+* [Upwork] [How Do I Get My First Client on Upwork (Elance and oDesk)?](https://www.youtube.com/watch?v=coykaiGnBbQ) [00:20:15] by The John Morris Show
