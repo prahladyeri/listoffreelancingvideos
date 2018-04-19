@@ -38,6 +38,14 @@
 * [Your Fastest Python Freelancer Roadmap](https://www.youtube.com/watch?v=jFZsyfNC27c) [01:28:03] by Clever Programmer
 
 ### Platform Specific
+* [How to work online using WordPress, Udemy, Upwork, Fiverr, and YouTube in 2016!](https://www.youtube.com/watch?v=pzlV3DTUsFo) [00:40:36] by Jerry Banfield
+* [How to Write Winning Job Proposals on Upwork, Elance, oDesk and Freelancer.com](https://www.youtube.com/watch?v=mBmgdxzvF9Q) [00:29:18] by The John Morris Show
 * [Upwork] [how to freelance on upwork](https://www.youtube.com/watch?v=TLfn1mQ2Gt8) [00:23:32] by Begginer Tuts
 * [Upwork] [How to Use Upwork as a Freelancer Webinar](https://www.youtube.com/watch?v=huRP7qXc2u0) [00:23:45] by Upwork
 * [Upwork] [How Do I Get My First Client on Upwork (Elance and oDesk)?](https://www.youtube.com/watch?v=coykaiGnBbQ) [00:20:15] by The John Morris Show
+* [Fiverr] [Fiverr Top Sellers Share Their Secrets to Creating Bestselling Gigs!](https://www.youtube.com/watch?v=e7CSpasHstk) [01:50:20] by Jerry Banfield
+* [Fiverr] [Fiverr - How to create a gig ?](https://www.youtube.com/watch?v=6PO7jfeJks0) [00:26:26] by TheFiverrGuy
+* [Fiverr] [Freelancing in Fiverr](https://www.youtube.com/watch?v=hjh03x_ly-k) [01:08:07] by Pranab Partha
+* [Fiverr] [How to make MONEY doing VOICE OVER on FIVERR](https://www.youtube.com/watch?v=tn_DK4KkEdE) [00:31:22] by FunnyGuyTimmy
+* [Freelancer.com] [Complete tutorial for freelancer.com ](https://www.youtube.com/watch?v=l-6pnPOG9is) [00:22:30] by Pawan Kumar
+* [Toptal] [How to Become a Digital Nomad](https://www.youtube.com/watch?v=63P8PK7t0Sg) [00:29:35] by nomadcharles
