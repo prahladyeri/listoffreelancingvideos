@@ -3,7 +3,7 @@
 * [On Motivation and Inspiration](#on-motivation-and-inspiration)
 * [On Organization and Tools](#on-organization-and-tools)
 * [On Coding and Programming](#on-coding-and-programming)
-* [Platform Specific](#on-coding-and-programming)
+* [Platform Specific](#platform-specific)
 
 -----
 
