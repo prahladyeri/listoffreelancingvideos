@@ -1,7 +1,9 @@
 # Freelancing Videos
 
-- ## [On Motivation and Inspiration](#on-motivation-and-inspiration)
-- ## [On Organization and Tools](#on-organization-and-tools)
+* [On Motivation and Inspiration](#on-motivation-and-inspiration)
+* [On Organization and Tools](#on-organization-and-tools)
+* [On Coding and Programming](#on-coding-and-programming)
+* [Platform Specific](#on-coding-and-programming)
 
 ### On Motivation and Inspiration
 * [9 Steps to Launch Your Freelance Career From Ground Zero](https://www.youtube.com/watch?v=p8FwAUw7hiE) [00:33:09] by The John Morris Show
