@@ -1,10 +1,10 @@
 # Curated List of Videos about Freelancing 
 
-* [On Motivation and Inspiration](#on-motivation-and-inspiration)
-* [On Organization and Tools](#on-organization-and-tools)
-* [On Pricing and Contracts](#on-pricing-and-contracts)
-* [On Coding and Programming](#on-coding-and-programming)
-* [Platform Specific](#platform-specific)
+# [On Motivation and Inspiration](#on-motivation-and-inspiration)
+# [On Organization and Tools](#on-organization-and-tools)
+# [On Pricing and Contracts](#on-pricing-and-contracts)
+# [On Coding and Programming](#on-coding-and-programming)
+# [Platform Specific](#platform-specific)
 
 -----
 
