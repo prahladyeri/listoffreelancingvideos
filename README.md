@@ -2,6 +2,7 @@
 
 * [On Motivation and Inspiration](#on-motivation-and-inspiration)
 * [On Organization and Tools](#on-organization-and-tools)
+* [On Pricing and Contracts](#on-pricing-and-contracts)
 * [On Coding and Programming](#on-coding-and-programming)
 * [Platform Specific](#platform-specific)
 
@@ -34,6 +35,14 @@
 * [FFF -- Setting up a Freelance Business: Organization, finance and contracts](https://www.youtube.com/watch?v=db3EvHYKalA) [00:34:16] by SPJ Florida
 * [5 Things I Wish I Knew Before I Started Freelancing | Freelance Friday](https://www.youtube.com/watch?v=HfUPNwaXYV4) [00:20:25] by Latasha James
 * [Legal Do's and Don'ts for Freelancers](https://www.youtube.com/watch?v=92p6u5d-eYs) [01:04:26] by Skillcrush Team
+
+### On Pricing and Contracts
+
+* [Pricing Strategy For Freelance Designers](https://www.youtube.com/watch?v=yJc9bhvB6dw) [00:59:01] by Nesha Woolery
+* [DesignTalk Ep. 14: How to price your freelance design work](https://www.youtube.com/watch?v=jQ4S4jygmrY) [01:22:55] by Lior Frankel
+* [How To Price Design Services & Make More Money](https://www.youtube.com/watch?v=RKXZ7t_RiOE) [00:36:30] by The Futur
+* [MUA Talk: How To Set Your Prices???](https://www.youtube.com/watch?v=WOBpy36nbfY) [00:29:28] by SinCityMua
+* [How much should I charge For My Art?](https://www.youtube.com/watch?v=ENJo1_5TsPY) [00:33:16] by Will Terry
 
 ### On Coding and Programming
 * [List] [Programming Talks](https://github.com/hellerve/programming-talks)
