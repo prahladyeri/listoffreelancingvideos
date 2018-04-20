@@ -2,9 +2,10 @@
 
 1. [On Motivation and Inspiration](#on-motivation-and-inspiration)
 2. [On Organization and Tools](#on-organization-and-tools)
-3. [On Pricing and Contracts](#on-pricing-and-contracts)
-4. [On Coding and Programming](#on-coding-and-programming)
-5. [Platform Specific](#platform-specific)
+3. [On Pricing](#on-pricing)
+4. [On Contracts](#on-contracts)
+5. [On Coding and Programming](#on-coding-and-programming)
+6. [Platform Specific](#platform-specific)
 
 -----
 
@@ -34,15 +35,22 @@
 * [Planning and Scheduling for Illustrators, Artists and Freelancers.](https://www.youtube.com/watch?v=Xt3cXRKVkbA) [00:29:57] by Bruna Mebs
 * [FFF -- Setting up a Freelance Business: Organization, finance and contracts](https://www.youtube.com/watch?v=db3EvHYKalA) [00:34:16] by SPJ Florida
 * [5 Things I Wish I Knew Before I Started Freelancing | Freelance Friday](https://www.youtube.com/watch?v=HfUPNwaXYV4) [00:20:25] by Latasha James
-* [Legal Do's and Don'ts for Freelancers](https://www.youtube.com/watch?v=92p6u5d-eYs) [01:04:26] by Skillcrush Team
 
-### On Pricing and Contracts
+### On Pricing
 
 * [Pricing Strategy For Freelance Designers](https://www.youtube.com/watch?v=yJc9bhvB6dw) [00:59:01] by Nesha Woolery
 * [DesignTalk Ep. 14: How to price your freelance design work](https://www.youtube.com/watch?v=jQ4S4jygmrY) [01:22:55] by Lior Frankel
 * [How To Price Design Services & Make More Money](https://www.youtube.com/watch?v=RKXZ7t_RiOE) [00:36:30] by The Futur
 * [MUA Talk: How To Set Your Prices???](https://www.youtube.com/watch?v=WOBpy36nbfY) [00:29:28] by SinCityMua
 * [How much should I charge For My Art?](https://www.youtube.com/watch?v=ENJo1_5TsPY) [00:33:16] by Will Terry
+
+### On Contracts
+
+* [DesignTalk Ep. 66: Freelance contracts 101—mistakes and best practices from 40k freelancers](https://www.youtube.com/watch?v=Awr01qL0TrU) [00:28:17] by InVision
+* [iOS Contracting & Freelancing - Types of Contracts, Q&A](https://www.youtube.com/watch?v=u09J7WeFmUU) [01:02:24] by Sean Allen
+* [Legal Do's and Don'ts for Freelancers](https://www.youtube.com/watch?v=92p6u5d-eYs) [01:04:26] by Skillcrush Team
+* [Contracts: The In's And Outs Of Creative Service Agreements & Statement of Work](https://www.youtube.com/watch?v=xHtvh3d-Gc0) [00:38:01] by The Futur
+* [Virtual Mentoring: Freelance Science Writing Contracts with Bryn Nelson and Mark Schrope](https://www.youtube.com/watch?v=sCQwaccV3zM) [00:58:05] by Emily Gertz
 
 ### On Coding and Programming
 * [List] [Programming Talks](https://github.com/hellerve/programming-talks)
@@ -52,6 +60,8 @@
 * [HOW TO BECOME A DEVELOPER AND GO REMOTE (Q&A WITH DYLAN WOLFF)](https://www.youtube.com/watch?v=V8iBcfwmX3Y) [00:30:49] by Chris the Freelancer
 * [Brad Hussey On Becoming A Successful Freelance Developer ](https://www.youtube.com/watch?v=V8iBcfwmX3Y) [00:34:35] by John Sonmez
 * [Your Fastest Python Freelancer Roadmap](https://www.youtube.com/watch?v=jFZsyfNC27c) [01:28:03] by Clever Programmer
+* [What it's like being a self-employed developer](https://www.youtube.com/watch?v=3s0INl-smo8) [00:20:01] by Code Insights
+
 
 ### Platform Specific
 * [How to work online using WordPress, Udemy, Upwork, Fiverr, and YouTube in 2016!](https://www.youtube.com/watch?v=pzlV3DTUsFo) [00:40:36] by Jerry Banfield
