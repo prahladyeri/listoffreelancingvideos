@@ -16,7 +16,7 @@
 * [Make 50K a Year Freelancing](https://www.youtube.com/watch?v=9a02koonveA) [00:35:53] by The John Morris Show
 * [How to Stay Motivated After Being Rejected](https://www.youtube.com/watch?v=NcrLOMpccsc) [00:36:13] by Work from Home Roadmap
 * [MOTIVATION, GETTING B2B CLIENTS, AND BUSINESS GROWTH STRATEGIES](https://www.youtube.com/watch?v=KnlySm3tAik) [00:20:53] by Benson Sung
-* [Selling Skills Audio Book by India's most experienced Sales Trainer and Life Coach](https://www.youtube.com/watch?v=p8FwAUw7hiE) [00:42:22] by TS Madaan
+* [Selling Skills Audio Book by India's most experienced Sales Trainer and Life Coach](https://www.youtube.com/watch?v=FFZBACIFBaU) [00:42:22] by TS Madaan
 * [How to Become a Successful Freelancer on Fiverr](https://www.youtube.com/watch?v=VRiFssctwZk) [00:21:42] by Gary Vee
 * [Q&A! | MOTIVATION, BUDGETING & FREELANCING!](https://www.youtube.com/watch?v=ZspxYhcPyFw) [00:23:02] by Brogan Tate
 * [Freelancer Developers Lifestyle in 2018](https://www.youtube.com/watch?v=5Xv4DPii4i8) [00:20:58] by Stefan Mischook
