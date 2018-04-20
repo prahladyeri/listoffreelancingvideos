@@ -4,7 +4,7 @@
 2. [On Organization and Tools](#on-organization-and-tools)
 3. [On Pricing](#on-pricing)
 4. [On Contracts](#on-contracts)
-5. [On Coding and Programming](#on-coding-and-programming)
+5. [On Programming](#on-programming)
 6. [Platform Specific](#platform-specific)
 
 -----
@@ -52,7 +52,7 @@
 * [Contracts: The In's And Outs Of Creative Service Agreements & Statement of Work](https://www.youtube.com/watch?v=xHtvh3d-Gc0) [00:38:01] by The Futur
 * [Virtual Mentoring: Freelance Science Writing Contracts with Bryn Nelson and Mark Schrope](https://www.youtube.com/watch?v=sCQwaccV3zM) [00:58:05] by Emily Gertz
 
-### On Coding and Programming
+### On Programming
 * [List] [Programming Talks](https://github.com/hellerve/programming-talks)
 * [List] [Javascript Must Watch](https://github.com/bolshchikov/js-must-watch)
 * [Roadmap to a Successful Freelance Coding Career](https://www.youtube.com/watch?v=2P2kYBDeN8A) [00:28:45] by The John Morris Show
