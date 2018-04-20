@@ -1,15 +1,16 @@
 # Curated List of Videos about Freelancing 
 
-1. [On Motivation and Inspiration](#on-motivation-and-inspiration)
-2. [On Organization and Tools](#on-organization-and-tools)
-3. [On Pricing](#on-pricing)
-4. [On Contracts](#on-contracts)
-5. [On Programming](#on-programming)
-6. [Platform Specific](#platform-specific)
+1. [On Motivation](#on-motivation)
+2. [On Organization](#on-organization)
+3. [On Tools](#on-tools)
+4. [On Pricing](#on-pricing)
+5. [On Contracts](#on-contracts)
+6. [On Programming](#on-programming)
+7. [Platform Specific](#platform-specific)
 
 -----
 
-### On Motivation and Inspiration
+### On Motivation
 * [9 Steps to Launch Your Freelance Career From Ground Zero](https://www.youtube.com/watch?v=p8FwAUw7hiE) [00:33:09] by The John Morris Show
 * [Watch This Whenever You Need Some Self Motivation and Self Confidence](https://www.youtube.com/watch?v=EB_vYbeVOjA) [00:29:46] by The John Morris Show
 * [Make 50K a Year Freelancing](https://www.youtube.com/watch?v=9a02koonveA) [00:35:53] by The John Morris Show
@@ -29,12 +30,19 @@
 * [The challenges of working at home as a freelancer](https://www.youtube.com/watch?v=N8_ykD2CHV8) [00:08:46] by Florian Welch
 
 
-### On Organization and Tools
+### On Organization
 * [Organization for Freelance Illustrators and Artists](https://www.youtube.com/watch?v=165421ggh4g) [00:17:25] by Kristina HultKrantz
 * [Organization Tips for Freelancers || Routines, side hustles, calendars, files, and more!](https://www.youtube.com/watch?v=HZDtZRbBreA) [00:04:08] by shessomickey
 * [Planning and Scheduling for Illustrators, Artists and Freelancers.](https://www.youtube.com/watch?v=Xt3cXRKVkbA) [00:29:57] by Bruna Mebs
 * [FFF -- Setting up a Freelance Business: Organization, finance and contracts](https://www.youtube.com/watch?v=db3EvHYKalA) [00:34:16] by SPJ Florida
 * [5 Things I Wish I Knew Before I Started Freelancing | Freelance Friday](https://www.youtube.com/watch?v=HfUPNwaXYV4) [00:20:25] by Latasha James
+
+### On Tools
+* [Tools & Web Apps to Make You a More Efficient Freelancer](https://www.youtube.com/watch?v=ZrO6qIEwOxc) [00:30:31] by Chester County Marketing Group
+* [Freelancer Tools & Tips For A Sustainable Lifestyle](https://www.youtube.com/watch?v=0yusksi4rAU) [01:30:39] by WIMP
+* [Going Solo- Essential tools and skills for freelance journalists](https://www.youtube.com/watch?v=VS-zeoMcBpM) [01:34:40] by Frontline Club
+* [External Development Summit 2014 - Tools of the Globetrotting Freelancer](https://www.youtube.com/watch?v=l9pNUnbkN7o) [00:34:48] by External Development Summit
+
 
 ### On Pricing
 
