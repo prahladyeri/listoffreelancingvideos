@@ -1,4 +1,4 @@
-# Curated List of Youtube Videos about Freelancing 
+# Curated List of Videos about Freelancing 
 
 * [On Motivation and Inspiration](#on-motivation-and-inspiration)
 * [On Organization and Tools](#on-organization-and-tools)
